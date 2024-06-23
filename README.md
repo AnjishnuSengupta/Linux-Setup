@@ -12,8 +12,12 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/OnePunchMan2718/Linux-Setup?style=for-the-badge&color=cba6f7)
 ![GitHub last commit](https://img.shields.io/github/last-commit/OnePunchMan2718/Linux-Setup?style=for-the-badge&color=b4befe)
 ![GitHub repo size](https://img.shields.io/github/repo-size/OnePunchMan2718/Linux-Setup?style=for-the-badge&color=cba6f7)
-<a href="https://discord.gg/whE6mhEt2b"> <img src="https://img.shields.io/discord/876398373962412102?style=for-the-badge&logo=discord&color=cba6f7&link=https%3A%2F%2Fdiscord.gg%whE6mhEt2b"> </a>
-<br/>
+<a href="https://discord.gg/whE6mhEt2b"> <img src="https://img.shields.io/discord/876398373962412102?style=for-the-badge&logo=discord&color=cba6f7&link=https%3A%2F%2Fdiscord.gg%whE6mhEt2b"></a><br>
+
+![GitHub Contributors](https://img.shields.io/github/contributors/OnePunchMan2718/Linux-Setup?style=for-the-badge&color=cba6f7)
+![GitHub Forks](https://img.shields.io/github/forks/OnePunchMan2718/Linux-Setup?style=for-the-badge&color=cba6f7)
+![GitHub Issues](https://img.shields.io/github/issues/OnePunchMan2718/Linux-Setup?style=for-the-badge&color=cba6f7)
+![GitHub Forks](https://img.shields.io/github/license/OnePunchMan2718/Linux-Setup?style=for-the-badge&color=cba6f7)
 </div>
 
 ##
@@ -40,9 +44,31 @@
 
 - This Repo is a collection and stack of themes, icons and wallpaper created by other developers. Some of the conky theme is updated to achieve the configuration and look of the desktop.
 
+> \[!IMPORTANT]
+>
+> **Star Us**, You will receive all release notifications from GitHub without any delay \~ ⭐️
+
+<details>
+  <summary><kbd>Star History</kbd></summary>
+
+<a href="https://star-history.com/#OnePunchMan2718/Linux-Setup&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=OnePunchMan2718/Linux-Setup&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=OnePunchMan2718/Linux-Setup&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=OnePunchMan2718/Linux-Setup&type=Date" />
+ </picture>
+</a>
+</details>
+
 <div style="border: 1px solid blue; padding: 10px;">
   <strong>
-    <b><font color="sky blue">Note:</font></b>&ensp;<small>The Creators of the themes,    icons & other packs used in this Customization has been mentioned later.</small>
+    <b><font color="sky blue">Note:</font></b>&ensp;<small>The Creators of the themes, icons & other packs used in this Customization has been mentioned later.</small>
+  </strong>
+</div>
+<br>
+<div style="border: 1px solid red; padding: 10px;">
+  <strong>
+    <b><font color="yellow">Warning:</font></b>&ensp;<small>The Conky Theme is somewhat broken in some parts. It may likely do to my system or the file is broken.&ensp;<font color="sky blue">It would be generous if anybody helps, please checkout the</font><a href="https://github.com/OnePunchMan2718/Linux-Setup/how-to-contribute.md"> <img src="https://i.postimg.cc/HsdgtgYg/ezgif-6-f5a2813599.gif" width=12%> </a></small>
   </strong>
 </div>
 
@@ -60,7 +86,7 @@ ls -l
 <p align="center">
     <img align="center" width="100%" src="x" />
 
-#### Plugin Installation
+### Distro Installation
 
 <details>
 <summary>
