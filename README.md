@@ -60,17 +60,13 @@
 </a>
 </details>
 
-<div style="border: 1px solid blue; padding: 10px;">
-  <strong>
-    <b><font color="sky blue">Note:</font></b>&ensp;<small>The Creators of the themes, icons & other packs used in this Customization has been mentioned later.</small>
-  </strong>
-</div>
-<br>
-<div style="border: 1px solid red; padding: 10px;">
-  <strong>
-    <b><font color="yellow">Warning:</font></b>&ensp;<small>The Conky Theme is somewhat broken in some parts. It may likely do to my system or the file is broken.&ensp;<font color="sky blue">It would be generous if anybody helps, please checkout the</font><a href="https://github.com/OnePunchMan2718/Linux-Setup/how-to-contribute.md"> <img src="https://i.postimg.cc/HsdgtgYg/ezgif-6-f5a2813599.gif" width=12%> </a></small>
-  </strong>
-</div>
+> \[!Note]
+>
+> The Creators of the themes, icons & other packs used in this Customization has been mentioned below.
+
+> \[!IMPORTANT]
+>
+> The Conky Theme is somewhat broken in some parts. It may likely do to my system or the file is broken. It would be generous if anybody helps, please checkout the Contribution Policy below.
 
 ## ✨ Installation
 
@@ -101,7 +97,7 @@ sudo pacman -S neofetch zsh lua conky-all jq curl gnome-tweaks chrome-gnome-shel
 
 zsh --version
 whereis zsh
-sh -c "$(curl -fsSL https://raw.github.com/robbyrussel/oh-my-zsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL <https://raw.github.com/robbyrussel/oh-my-zsh/master/tools/install.sh>)"
 
 conky
 pgrep conky
