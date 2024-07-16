@@ -86,7 +86,7 @@ ls -l
 
 <details>
 <summary>
-<b>Arch Linux<b>
+<b>Arch Linux & Manjaro [Recommended]<b>
 </summary>
 <p>
 <pre><code>
@@ -108,6 +108,67 @@ neofetch
 yay -S pokemon-colorscripts-git
 pokemon-colorscripts -h
 pokemon-colorscripts -r -s
+</code></pre>
+</p>
+</details>
+
+<details>
+<summary>
+<b>Fedora<b>
+</summary>
+<p>
+<pre><code>
+
+sudo dnf upgrade
+sudo shutdown -r now
+
+sudo yum install neofetch zsh lua conky-all jq curl gnome-tweaks chrome-gnome-shell powerline-fonts
+
+zsh --version
+whereis zsh
+sh -c "$(curl -fsSL <https://raw.github.com/robbyrussel/oh-my-zsh/master/tools/install.sh>)"
+
+conky
+pgrep conky
+kill [number]
+
+neofetch
+
+git clone https://gitlab.com/phoneybadger/pokemon-colorscripts.git
+cd pokemon-colorscripts
+sudo ./install.sh
+
+pokemon-colorscripts
+</code></pre>
+</p>
+</details>
+
+<details>
+<summary>
+<b>Ubuntu, Linux Mint & Debrian<b>
+</summary>
+<p>
+<pre><code>
+
+sudo apt-get update && sudo apt-get upgrade -y
+
+sudo apt-get install neofetch zsh lua conky-all jq curl gnome-tweaks chrome-gnome-shell powerline-fonts
+
+zsh --version
+whereis zsh
+sh -c "$(curl -fsSL <https://raw.github.com/robbyrussel/oh-my-zsh/master/tools/install.sh>)"
+
+conky
+pgrep conky
+kill [number]
+
+neofetch
+
+git clone https://gitlab.com/phoneybadger/pokemon-colorscripts.git
+cd pokemon-colorscripts
+sudo ./install.sh
+
+pokemon-colorscripts
 </code></pre>
 </p>
 </details>
